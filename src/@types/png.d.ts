@@ -1,0 +1,1 @@
+declare module "*.png" // definindo as tipagem para imagem no typescript.
